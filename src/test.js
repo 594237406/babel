@@ -1,4 +1,4 @@
-import fs from 'fs'
+const test = ()=> 'test';
+test();
 
-export default fs.readFileSync('../src/test.js', 'utf8');
 
