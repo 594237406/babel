@@ -1,5 +1,3 @@
-// 提供内建模块转码与async转码等功能
-
 require("babel-polyfill");
 const babel = require('babel-core');
 const fs = require('fs');
