@@ -1,6 +1,6 @@
 require('babel-core/register');
 
-const file = require('../src/test.js');
+const file = require('../src/import.js');
 
 console.log(file);
 
